@@ -1,0 +1,25 @@
+{
+    "name": "sneakyhub-official-discord-bot",
+    "version": "1.0.0",
+    "description": "The official discord bot that will manage SneakyHub Hosting.",
+    "main": "src/bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SneakyHub/official-discord-bot.git"
+    },
+    "author": "SneakyHub",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SneakyHub/official-discord-bot/issues"
+    },
+    "homepage": "https://github.com/SneakyHub/official-discord-bot#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "discord.js": "^12.5.3",
+        "humanize-duration": "^3.27.0",
+        "quickmongo": "^3.0.2"
+    }
+}

@@ -1,2 +1,2 @@
-# sdb-core
-sneaky dash bot core
+# sdb
+sneaky dash bot
