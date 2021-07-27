@@ -1,5 +1,3 @@
-const check = require("../../check")
-
 module.exports = {
     name: "message", // the event name
     run: async (client, message) => { // the function to run the code below
@@ -10,7 +8,7 @@ module.exports = {
         const command = args.shift().toLowerCase() // makes the command lower cased
 
         try {
-            client.commands.get(command).run(client, message, args, check) // attempts to run the command
+            client.commands.get(command).run(client, message, args) // attempts to run the command
         } catch (error) {
             return // stops the process if theres an error
         }
