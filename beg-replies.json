@@ -1,2 +1,0 @@
-                `You beg and get ${payment.toLocaleString()} credits for 1 day worth of begging!`,
-                `Eh you tell your friend you don't have money so they give you ${payment.toLocaleString()} credits!`,
