@@ -8,3 +8,4 @@
 `The Chairman pays you with ${payment.toLocaleString()} credits for washing their car.`,
 `You got rewarded with ${payment.toLocaleString()} credits for delivering the mail.`,
 `${payment.toLocaleString()} credits were transferred to your bank account for helping the developers.`,
+`You got ${payment.toLocaleString()} credits for fixing the your neighbour house.`,
