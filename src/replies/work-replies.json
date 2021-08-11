@@ -9,3 +9,8 @@
 `You got rewarded with ${payment.toLocaleString()} credits for delivering the mail.`,
 `${payment.toLocaleString()} credits were transferred to your bank account for helping the developers.`,
 `You got ${payment.toLocaleString()} credits for fixing the your neighbour house.`,
+`You worked as a discord moderator and discord gave you ${payment.toLocaleString()} credits.`,
+`You worked as a tiktoker and uploaded a video. Fortunately it got popular and you received ${payment.toLocaleString()} credits.`,
+`You worked as a graphics designer and received ${payment.toLocaleString()} credits!`,
+`You saw sneaky having issues with fixing panels. So you decided to help him and sneaky rewarded you with ${payment.toLocaleString()} credits.`,
+`You made a youtube video about sneakyhub hosting and received ${payment.toLocaleString()} credits.`
