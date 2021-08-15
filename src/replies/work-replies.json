@@ -17,4 +17,9 @@
 `You worked as a model and recevived ${payment.toLocaleString()} credits.`,
 `You worked as a hitman and recevived ${payment.toLocaleString()} credits.`,
 `You helped sneaky through a ddos attack and recevived ${payment.toLocaleString()} credits.`,
-`You woke up in a random box and recevived ${payment.toLocaleString()} credits.`
+`You woke up in a random box and recevived ${payment.toLocaleString()} credits.`,
+`You won a beauty contest and recevived ${payment.toLocaleString()} credits.`,
+`You programmed a whole website off of bootstrap and recevived ${payment.toLocaleString()} credits.`,
+`Someone said "Damn you cute bro" and you recevived ${payment.toLocaleString()} credits.`,
+`Some simp donated and you recevived ${payment.toLocaleString()} credits.`,
+`Someone hacked your bank account and you recevived ${payment.toLocaleString()} credits.`
