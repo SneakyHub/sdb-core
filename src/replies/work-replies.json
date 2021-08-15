@@ -13,4 +13,13 @@
 `You worked as a tiktoker and uploaded a video. Fortunately it got popular and you received ${payment.toLocaleString()} credits.`,
 `You worked as a graphics designer and received ${payment.toLocaleString()} credits!`,
 `You saw sneaky having issues with fixing panels. So you decided to help him and sneaky rewarded you with ${payment.toLocaleString()} credits.`,
-`You made a youtube video about sneakyhub hosting and received ${payment.toLocaleString()} credits.`
+`You made a youtube video about sneakyhub hosting and received ${payment.toLocaleString()} credits.`.
+`You worked as a model and recevived ${payment.toLocaleString()} credits.`,
+`You worked as a hitman and recevived ${payment.toLocaleString()} credits.`,
+`You helped sneaky through a ddos attack and recevived ${payment.toLocaleString()} credits.`,
+`You woke up in a random box and recevived ${payment.toLocaleString()} credits.`,
+`You won a beauty contest and recevived ${payment.toLocaleString()} credits.`,
+`You programmed a whole website off of bootstrap and recevived ${payment.toLocaleString()} credits.`,
+`Someone said "Damn you cute bro" and you recevived ${payment.toLocaleString()} credits.`,
+`Some simp donated and you recevived ${payment.toLocaleString()} credits.`,
+`Someone hacked your bank account and you recevived ${payment.toLocaleString()} credits.`
