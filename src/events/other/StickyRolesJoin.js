@@ -13,6 +13,7 @@ module.exports = {
             try {
                 member.roles.add(r) // adds the role
             } catch (error) {
+                console.error(error)
                 // do nothing i guess
             }
         })

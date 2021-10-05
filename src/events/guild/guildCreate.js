@@ -1,6 +1,6 @@
 module.exports = {
-    name: "guildCreate",
+    name: "template",
     run: async (client, message, args) => {
-
+        // code here
     }
 }
