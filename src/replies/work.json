@@ -1,3 +1,5 @@
+
+
 `You work as a developer and get paid ${payment.toLocaleString()} credits!`,
 `Sneaky found your comment funny and gave you ${payment.toLocaleString()} credits! for being the funniest person on the job site.`,
 `You work as a network security developer and earn ${payment.toLocaleString()} credits!`,

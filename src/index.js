@@ -8,6 +8,7 @@ db = new Database(config.MONGO)
 client.db = db
 client.profileDB = db.createModel("Profiles")
 client.guildDB = db.createModel("Guilds")
+client.replies = require('./replies.js')
 
 client.prefix = config.PREFIX // the bot prefix
 client.modules = ["host-management", "utility", "economy", "moderation"] // the command modules to load in
