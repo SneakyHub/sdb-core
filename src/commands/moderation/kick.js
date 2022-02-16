@@ -1,7 +1,8 @@
 module.exports = {
-    name: "template", // Command name
-    aliases: ["alias1", "alias2"], // Command aliases
-    description: "a description here", // Command description
+    name: "kick",
+    aliases: ["kick"],
+    module: "moderation",
+    description: "Kicks a User from a specified guild",
     run: async (client, message, args) => {
         // code here
     }
